@@ -1,4 +1,4 @@
-Logistic_Regression
+Logistic Regression
 
 1.Classification
 
